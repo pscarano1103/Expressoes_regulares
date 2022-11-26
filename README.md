@@ -27,3 +27,10 @@ significado dos quantifiers:
 - {n} - exatamente n vezes.
 - {n,} - no mínimo n vezes.
 - {n,m} - no mínimo n vezes, no máximo m vezes.
+
+## Aula 3 - Ancoras
+
+- Existem âncoras predefinidas que selecionam uma posição dentro do alvo.
+- \b é uma âncora que seleciona um word boundary, isso é o início ou fim da palavra.
+- ^ é uma âncora que seleciona o início da string alvo.
+- $ é uma âncora que seleciona o fim do alvo.
