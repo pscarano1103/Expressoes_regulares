@@ -34,3 +34,10 @@ significado dos quantifiers:
 - \b é uma âncora que seleciona um word boundary, isso é o início ou fim da palavra.
 - ^ é uma âncora que seleciona o início da string alvo.
 - $ é uma âncora que seleciona o fim do alvo.
+
+## Aula 4 - Trabalhando com Grupos
+
+- Declaramos um grupo com ().
+- Podemos ter grupos e subgrupos.
+- Um grupo é retornado na hora de executar, são úteis para selecionar uma parte do match.
+- Através do ?:, dizemos que não queremos ver esse grupo na resposta
